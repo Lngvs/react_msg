@@ -1,0 +1,59 @@
+.App {
+  padding: 50px;
+}
+
+.d-flex  {
+  display: flex;
+}
+
+.space-btw {
+  justify-content: space-between;
+}
+
+.justify-end {
+  justify-content: end;
+}
+
+.flex-column {
+  flex-direction: column;
+}
+
+.flex-wrap {
+  flex-wrap: wrap;
+}
+
+.align-center {
+  align-items: center;
+}
+
+.grow1 {
+  flex: 1
+}
+
+.grow3 {
+  flex: 3
+}
+
+.p-10 {
+  padding: 10px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.m-10 {
+  margin: 10px;
+}
+
+.toolbar {
+  padding: 20px;
+  background-color: rebeccapurple;
+  color: white;
+  margin-bottom: 20px;
+}
+
+a {
+  margin-left: 20px;
+  color: white;
+}
